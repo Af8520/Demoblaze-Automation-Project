@@ -1,11 +1,13 @@
 **Demoblaze Automation Project**
 This is an automated testing project for the Demoblaze e-commerce website. The project is built using Java, Selenium WebDriver, Maven, and TestNG. It is designed to automate functional and UI test cases for various features of the website, ensuring smooth user interactions and proper functionality.
 
-Technologies Used:
-**Java**: For scripting the test cases.
-**Selenium WebDriver**: For automating browser interactions.
-**Maven**: For dependency management and project build.
-**TestNG**: For organizing and executing test cases.
+## Technologies Used
+
+- **Java**: For scripting the test cases.
+- **Selenium WebDriver**: For automating browser interactions.
+- **Maven**: For dependency management and project build.
+- **TestNG**: For organizing and executing test cases.
+
 
 
 **Project Setup and Execution Guide**
