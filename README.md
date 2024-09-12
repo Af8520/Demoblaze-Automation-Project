@@ -10,22 +10,24 @@ This is an automated testing project for the Demoblaze e-commerce website. The p
 
 
 
-**Project Setup and Execution Guide**
-This project is structured within the following folder hierarchy:
-Selenium/
-└── src/
-    └── test/
-        └── java/
-            └── TestAutomationProject/
-                └── HomePage.java
+## Project Setup and Execution Guide
 
-**Prerequisites**
+This project is structured within the following folder hierarchy:
+
+
+Selenium/src/test/java/TestAutomationProject/HomePage.java
+
+
+
+### Prerequisites
+
 Before running the project, ensure you have the following installed on your machine:
 
-1.**Java Development Kit (JDK)** – Make sure JDK 8 or above is installed.
-2.**Maven** – Used to build and manage dependencies.
-3.**Selenium WebDriver** – Integrated into the project.
-4.**TestNG** – Test framework for running the tests.
+1. **Java Development Kit (JDK)** – Make sure JDK 8 or above is installed.
+2. **Maven** – Used to build and manage dependencies.
+3. **Selenium WebDriver** – Integrated into the project.
+4. **TestNG** – Test framework for running the tests.
+
 
 **Test Cases**:
 The following test cases have been automated to ensure the core functionalities of the website work as expected:
