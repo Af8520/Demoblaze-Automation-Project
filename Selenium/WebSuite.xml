@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+        -<suite parallel="false" name="Selenium Suite">
+
+
+    -<test parallel="false" name="My Selenium Tests">
+
+    <!-- <groups>-->
+
+
+    <!-- <run>-->
+
+
+    <!-- <include name="sanity"/>-->
+
+
+    <!-- </run>-->
+
+
+    <!-- </groups>-->
+
+
+
+    -<classes>
+
+    <class name="Leasson14.TestNGex"/>
+
+    <class name="Leasson14.GroupsExample2"/>
+
+</classes>
+
+</test>
+
+</suite>
